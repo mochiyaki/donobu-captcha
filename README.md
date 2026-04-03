@@ -11,3 +11,10 @@ Run the captcha challenges
 ```
 npm run dev
 ```
+
+## Testing protocol
+
+Runn the test
+```
+python test.py
+```
